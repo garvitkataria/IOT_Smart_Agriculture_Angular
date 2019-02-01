@@ -12,6 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <h3>Django Server:</h3> https://github.com/garvitkataria/IOT_Smart_Agriculture
 <h3>YouTube Link:</h3> https://youtu.be/eDg2UW-1EYI
+
 # Internet of Things 
 ### Project Title: IOT Based Smart Agriculture
 
